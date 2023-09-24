@@ -4,24 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/Practica1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/src/BinarioADecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/src/DecimalABinario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/src/FactorialGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/src/NoRecursivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica1/src/Recursivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica2/Practica2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica2/src/Main.java" afterDir="false" />
+    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="Practica1 falta binario a decimal.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practica1/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practica1/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,6 +55,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/davidljm/Documents/BootCamp AWS/BootCamp-Java/Practica2/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -73,8 +72,25 @@
       <option name="presentableId" value="Default" />
       <updated>1695598229027</updated>
       <workItem from="1695598230162" duration="106000" />
-      <workItem from="1695598396091" duration="748000" />
+      <workItem from="1695598396091" duration="1388000" />
     </task>
+    <task id="LOCAL-00001" summary="Practica1 falta binario a decimal.">
+      <option name="closed" value="true" />
+      <created>1695599346364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695599346364</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Practica1 falta binario a decimal.">
+      <option name="closed" value="true" />
+      <created>1695599447348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695599447348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,21 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practica1/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practica2/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Practica1 falta binario a decimal." />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica1 falta binario a decimal." />
   </component>
 </project>
