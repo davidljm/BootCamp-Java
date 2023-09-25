@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="Modificaciones en el main de la clase pila">
-      <change afterPath="$PROJECT_DIR$/Practica2/src/Fila.java" afterDir="false" />
+    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="Se agrega la clase Fila">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica2/src/Fila2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica2/src/Pila2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica2/src/Pila.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2/src/Pila.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695598229027</updated>
       <workItem from="1695598230162" duration="106000" />
-      <workItem from="1695598396091" duration="3430000" />
+      <workItem from="1695598396091" duration="5928000" />
     </task>
     <task id="LOCAL-00001" summary="Practica1 falta binario a decimal.">
       <option name="closed" value="true" />
@@ -116,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695605279976</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se agrega la clase Fila">
+      <option name="closed" value="true" />
+      <created>1695605602969</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695605602969</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +148,7 @@
     <MESSAGE value="Se borro clase Main sin uso" />
     <MESSAGE value="Clase Pila," />
     <MESSAGE value="Modificaciones en el main de la clase pila" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificaciones en el main de la clase pila" />
+    <MESSAGE value="Se agrega la clase Fila" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrega la clase Fila" />
   </component>
 </project>
