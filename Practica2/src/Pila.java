@@ -2,8 +2,11 @@ import java.util.ArrayList;
 import java.util.EmptyStackException;
 import java.util.List;
 
+/*
+Implementar la clase Pila (Utilizando una Collection que no implemente la interfaz Queue / Deque)
+ */
 public class Pila<T> {
-    private List<T> elementos;
+    private final List<T> elementos;
 
     public Pila() {
         elementos = new ArrayList<>();
@@ -70,5 +73,19 @@ public class Pila<T> {
 
         System.out.println("Pila después del pop:");
         pila.imprimirPila();
+        System.out.println("Vaciar Pila");
+        pila.clear();
+        System.out.println("Tamaño de pila después del clear:");
+        System.out.println(pila.size());
+
+        pila.push(3);
+        pila.push(2);
+        pila.push(5);
+
+        System.out.println("Elemento en la cima de la pila: " + pila.peek());
+
+        System.out.println("Pila original:");
+        pila.imprimirPila();
+
     }
 }
