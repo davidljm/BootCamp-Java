@@ -23,10 +23,9 @@ public class InvertirString {
         String cadena = scanner.nextLine();
 
         InvertirString inversor = new InvertirString();
-        String cadenaInvertida = inversor.invertirString(cadena);
 
         System.out.println("Cadena original: " + cadena);
-        System.out.println("Cadena invertida: " + cadenaInvertida);
+        System.out.println("Cadena invertida: " + inversor.invertirString(cadena));
 
         scanner.close();
     }
