@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="Se agrega la clase Fila2 y Pila 2 correspondiente al ejercicio 3. Revisar el warning sobre el cast">
+    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="se agrega ejercicio arbol binario">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practica2/src/ArbolBinario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -76,7 +76,7 @@
       <updated>1695598229027</updated>
       <workItem from="1695598230162" duration="106000" />
       <workItem from="1695598396091" duration="7222000" />
-      <workItem from="1695687989042" duration="871000" />
+      <workItem from="1695687989042" duration="1423000" />
     </task>
     <task id="LOCAL-00001" summary="Practica1 falta binario a decimal.">
       <option name="closed" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695608233687</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="se agrega ejercicio arbol binario">
+      <option name="closed" value="true" />
+      <created>1695690246159</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695690246159</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +167,7 @@
     <MESSAGE value="Modificaciones en el main de la clase pila" />
     <MESSAGE value="Se agrega la clase Fila" />
     <MESSAGE value="Se agrega la clase Fila2 y Pila 2 correspondiente al ejercicio 3. Revisar el warning sobre el cast" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrega la clase Fila2 y Pila 2 correspondiente al ejercicio 3. Revisar el warning sobre el cast" />
+    <MESSAGE value="se agrega ejercicio arbol binario" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agrega ejercicio arbol binario" />
   </component>
 </project>
