@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="se agrega ejercicio Producto sin multiplicacion. Recursivo.">
-      <change beforePath="$PROJECT_DIR$/Practica2/src/ProductoSinMultiplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2/src/ProductoSinMultiplicacion.java" afterDir="false" />
+    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="se corrige identacion">
+      <change afterPath="$PROJECT_DIR$/Practica2/src/InvertirString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <updated>1695598229027</updated>
       <workItem from="1695598230162" duration="106000" />
       <workItem from="1695598396091" duration="7222000" />
-      <workItem from="1695687989042" duration="2465000" />
+      <workItem from="1695687989042" duration="2777000" />
     </task>
     <task id="LOCAL-00001" summary="Practica1 falta binario a decimal.">
       <option name="closed" value="true" />
@@ -164,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695691241848</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="se corrige identacion">
+      <option name="closed" value="true" />
+      <created>1695691312996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695691312996</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +200,7 @@
     <MESSAGE value="se agrega ejercicio arbol binario" />
     <MESSAGE value="se agrega ejercicio FactorialRecursivo" />
     <MESSAGE value="se agrega ejercicio Producto sin multiplicacion. Recursivo." />
-    <option name="LAST_COMMIT_MESSAGE" value="se agrega ejercicio Producto sin multiplicacion. Recursivo." />
+    <MESSAGE value="se corrige identacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="se corrige identacion" />
   </component>
 </project>
