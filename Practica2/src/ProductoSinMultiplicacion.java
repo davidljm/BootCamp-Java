@@ -8,22 +8,18 @@ public class ProductoSinMultiplicacion {
         if (a == 0 || b == 0) {
             return 0;
         }
-
         // Caso base: Si b es igual a 1, el resultado es a.
         if (b == 1) {
             return a;
         }
-
         // Caso base: Si a es igual a 1, el resultado es b.
         if (a == 1) {
             return b;
         }
-
         // Caso recursivo: Restamos 1 de 'a' y multiplicamos 'b' recursivamente.
         // Luego, sumamos 'b' al resultado de la llamada recursiva.
         return calcularProducto(a - 1, b) + b;
     }
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
