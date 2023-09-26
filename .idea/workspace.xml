@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="se corrige identacion">
-      <change afterPath="$PROJECT_DIR$/Practica2/src/InvertirString.java" afterDir="false" />
+    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="se agrega erjercicio invertir string">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica2/src/InvertirString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2/src/InvertirString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practica2/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <updated>1695598229027</updated>
       <workItem from="1695598230162" duration="106000" />
       <workItem from="1695598396091" duration="7222000" />
-      <workItem from="1695687989042" duration="2777000" />
+      <workItem from="1695687989042" duration="3897000" />
     </task>
     <task id="LOCAL-00001" summary="Practica1 falta binario a decimal.">
       <option name="closed" value="true" />
@@ -172,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695691312996</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="se agrega erjercicio invertir string">
+      <option name="closed" value="true" />
+      <created>1695692002694</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695692002694</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +211,7 @@
     <MESSAGE value="se agrega ejercicio FactorialRecursivo" />
     <MESSAGE value="se agrega ejercicio Producto sin multiplicacion. Recursivo." />
     <MESSAGE value="se corrige identacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="se corrige identacion" />
+    <MESSAGE value="se agrega erjercicio invertir string" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agrega erjercicio invertir string" />
   </component>
 </project>
