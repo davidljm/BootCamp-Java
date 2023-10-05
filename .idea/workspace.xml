@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="se agrega erjercicio invertir string">
+    <list default="true" id="57af6d9e-acec-42a7-a95b-e0e4b789315c" name="Changes" comment="se optimiza un poco el codigo de invertir string">
+      <change afterPath="$PROJECT_DIR$/Practica3/Adicionales/Adicionales.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/Adicionales/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/Adicionales/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/Practica3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/src/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/src/MostrarNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/src/SumaNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica2/src/InvertirString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2/src/InvertirString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +67,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/davidljm/Documents/BootCamp AWS/BootCamp-Java/Practica2/src/Main.java",
+    "onboarding.tips.debug.path": "/home/davidljm/Documents/BootCamp AWS/BootCamp-Java/Practica3/Adicionales/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -76,7 +84,8 @@
       <updated>1695598229027</updated>
       <workItem from="1695598230162" duration="106000" />
       <workItem from="1695598396091" duration="7222000" />
-      <workItem from="1695687989042" duration="3897000" />
+      <workItem from="1695687989042" duration="5009000" />
+      <workItem from="1696527149302" duration="10808000" />
     </task>
     <task id="LOCAL-00001" summary="Practica1 falta binario a decimal.">
       <option name="closed" value="true" />
@@ -182,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695692002694</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="se optimiza un poco el codigo de invertir string">
+      <option name="closed" value="true" />
+      <created>1695729189600</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695729189600</updated>
+    </task>
+    <task id="LOCAL-00015" summary="se optimiza un poco el codigo de invertir string">
+      <option name="closed" value="true" />
+      <created>1695729208239</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695729208239</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +237,23 @@
     <MESSAGE value="se agrega ejercicio Producto sin multiplicacion. Recursivo." />
     <MESSAGE value="se corrige identacion" />
     <MESSAGE value="se agrega erjercicio invertir string" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agrega erjercicio invertir string" />
+    <MESSAGE value="se optimiza un poco el codigo de invertir string" />
+    <option name="LAST_COMMIT_MESSAGE" value="se optimiza un poco el codigo de invertir string" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practica3/Adicionales/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practica3/src/Alumno.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
