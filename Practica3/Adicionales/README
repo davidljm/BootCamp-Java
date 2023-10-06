@@ -13,7 +13,8 @@ Como ven, estoy generalizando el ejercicio anterior. Y, como establecerían la p
 
 Desarrollar los 3 por favor. Es posible, por que? Si no es posible, defina 2.
 
-Ahora pensemos que cualquiera de los parámetros (desde, hasta, condicion) podrían ser nulos.  Como lo resolverían.  Incluso, implementemos el metodo:
+Ahora pensemos que cualquiera de los parámetros (desde, hasta, condicion) podrían ser nulos.  Como lo resolverían.
+Incluso, implementemos el metodo:
 
 	List<Integer> obtenerListaSecuencial(Integer desde, Integer hasta)  reutilizando el metodo anterior!!!
 
